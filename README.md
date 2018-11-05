@@ -6,5 +6,7 @@
 
 环境：  
 Python 3.5.2 |Anaconda 4.2.0 (64-bit)  
-Open-CV (3.4.3.18)  
+Open-CV (3.4.3.18)
+
+虽然有requirement.txt，但是当时忘记用VirtualEnv了，所以大家参考一下关键的包的版本就好了。
 
